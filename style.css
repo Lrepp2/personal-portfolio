@@ -6,7 +6,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: white;
   margin: 0;
-  background-color: black;
+  background-color: light blue;
 }
 
 div {
@@ -14,7 +14,7 @@ div {
 and images in "divs" and then move them around the page. */
   padding: 15px;
   margin: 15px;
-  background: black;
+  background: light blue;
 }
 
 img {
@@ -23,7 +23,7 @@ img {
 }
 
 p {
-  background: black;
+  background: light blue;
 }
 
 h1, h2, h3 {
@@ -57,11 +57,11 @@ ul, ol {
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #aa04a2;
-  color: white;
+  color: black;
 }
 
 #bio {
-  background: black;
+  background: purple;
   margin: 0px;
   padding: 10px;
   text-align: center;
